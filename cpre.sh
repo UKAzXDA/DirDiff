@@ -7,7 +7,7 @@ helps() {
   echo "  origem   Diretório base onde os arquivos serão buscados."
   echo "  destino  Diretório base de comparação."
   echo
-  echo "Coded by: @UKAzXDA"
+  echo "By: @UKAzXDA"
   exit 0
 }
 cpre() {
